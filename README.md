@@ -1,4 +1,4 @@
-## Template inciar para criação de projetos com ReactJS
+## Template padrão para criação de projetos com ReactJS
 
 Criar o Projeto: `yarn create react-app nomeProjeto`
 
